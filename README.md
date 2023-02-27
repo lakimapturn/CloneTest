@@ -13,11 +13,11 @@ The main goal of this assignment is to test your SwiftUI knowledge while ensurin
   - Must contain the text of that to-do item.
   - Has functionality enabling the user to edit the text. This can be implemented in several ways on the frontend, we won't restrict you.
   - Optional: display the time this item was added.
-5. REQUIRED features to use in implementation:
+5. REQUIRED features to use in implementation, this list is NOT exhaustive:
   - The given classes/structs, which you have to fill out and edit. They're useful for figuring out the approach.
   - @State
   - @StateObject
   - Environment Objects
   - Protocols: ObservableObject, Identifiable
-  - ScrollView (for the list of notes)
-  - Navigation.
+  - ScrollView (for the list of notes) 
+  - Navigation
