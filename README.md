@@ -9,7 +9,7 @@ The main goal of this assignment is to test your SwiftUI knowledge while ensurin
   - Has the header text "Todo-list".
   - Will contain all the tappable todo items added by some user. Tapping on the item should navigate the user to the Todo-list Item View with information regarding this particular item.
   - Has functionality enabling the user to add items (as text) to the todo-list. Hint: the list should be updated **the moment** a user adds the item.
-4. Todo-list Item View:
+4. Todo-list Item screen:
   - Must contain the text of that to-do item.
   - Has functionality enabling the user to edit the text. This can be implemented in several ways on the frontend, we won't restrict you.
   - Optional: display the time this item was added.
