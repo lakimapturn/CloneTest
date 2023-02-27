@@ -10,7 +10,7 @@ import SwiftUI
 struct TodoItemScreen: View {
     
     /*
-     TODO (variables [min. 1]) ->  Item env object
+     TODO (variables [min. 1])
      */
     
     var body: some View {

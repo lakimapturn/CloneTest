@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     /*
-     TODO (variables [min. 3]) -> state object (todoItems), textfield, button
+     TODO (variables [min. 3])
      */
     
     var body: some View {
