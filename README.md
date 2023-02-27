@@ -21,3 +21,4 @@ The main goal of this assignment is to test your SwiftUI knowledge while ensurin
   - Protocols: ObservableObject, Identifiable
   - ScrollView (for the list of notes) 
   - Navigation
+  - Optional: use Enums to aid in implementing optional functionality allowing the user to set a task priority between low-moderate-high.
