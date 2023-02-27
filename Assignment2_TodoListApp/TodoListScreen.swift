@@ -7,10 +7,10 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct TodoListScreen: View {
     
     /*
-     TODO (variables [min. 3])
+     TODO (variables [min. 2])
      */
     
     var body: some View {
@@ -20,6 +20,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        TodoListScreen()
     }
 }
