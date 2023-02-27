@@ -29,3 +29,6 @@ The main goal of this assignment is to test your SwiftUI knowledge while ensurin
 <img width="453" alt="CleanShot 2023-02-27 at 17 26 04@2x" src="https://user-images.githubusercontent.com/67667005/221700294-ed5094cf-9ae1-4e43-9582-808746920d63.png">
 
 - To clone the repo, go to Xcode and click on "Clone an existing project", then paste this page's URL.
+
+- You can commit and push to your OWN branch as many times as you want, you can do this easily via Xcode simply click on commit first. Once you're done with that, click on push, and make sure you're pushing to YOUR branch.
+<img width="1369" alt="CleanShot 2023-02-27 at 17 40 59@2x" src="https://user-images.githubusercontent.com/67667005/221702410-31e842a9-e9d3-42b6-a103-109e58a97c48.png">
