@@ -22,3 +22,8 @@ The main goal of this assignment is to test your SwiftUI knowledge while ensurin
   - ScrollView (for the list of notes) 
   - Navigation
   - Optional: use Enums to aid in implementing optional functionality allowing the user to set a task priority between low-moderate-high.
+
+## Git and Github Tips
+
+- To create your own branch, open this menu, make sure there's a checkmark next to main as below, then type your name into the input box and click on the created button below it.
+<img width="453" alt="CleanShot 2023-02-27 at 17 26 04@2x" src="https://user-images.githubusercontent.com/67667005/221700294-ed5094cf-9ae1-4e43-9582-808746920d63.png">
