@@ -1,1 +1,3 @@
-# Assignment2_TodoListApp
+# Assignment2 - TodoListApp
+
+#Instructions
