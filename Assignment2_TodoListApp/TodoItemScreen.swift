@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  TodoItemScreen.swift
 //  Assignment2_TodoListApp
 //
 //  Created by Abdulaziz Albahar on 2/27/23.
@@ -7,10 +7,10 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct TodoItemScreen: View {
     
     /*
-     TODO (variables [min. 3]) -> state object (todoItems), textfield, button
+     TODO (variables [min. 1]) ->  Item env object
      */
     
     var body: some View {
@@ -18,8 +18,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct TodoItemScreen_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        TodoItemScreen()
     }
 }
